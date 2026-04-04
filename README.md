@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Almansour 👋
+# Hi there, I'm Ahmed Almnsour 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Systems+Architect;SaaS+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
