@@ -4,10 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Systems+Architect;SaaS+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
+
 مُطوّر أنظمة SaaS ومِعماري ذكاء اصطناعي (AI Architect)
+
 أؤمن بأن البرمجة هي فنُّ صياغة المنطق بأبهى صورة. أتخصص في بناء أنظمة الـ SaaS المعقدة، وتطوير البنى التحتية متعددة المستأجرين (Multi-tenant) التي تعتمد على معمارية (RLS) وقواعد بيانات PostgreSQL المتطورة.
 
 مجالات التركيز الحالي:
+
 هندسة الـ SaaS: بناء منصات آمنة وقابلة للتوسع (Scalable) باستخدام Next.js و Node.js.
 
 الذكاء الاصطناعي: تطوير أنظمة الوكلاء المتعددين (AI Multi-Agent Systems) للتداول المالي وإدارة البيانات.
