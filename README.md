@@ -45,8 +45,8 @@
 
 أكتب عن القرارات الحقيقية خلف منتجاتي، ما اشتغل، وما انهار، ولماذا. المعنى يتضح حين يُشرح.
 
-- [تشريح زميلي v2.0.0: من جدول إلى SaaS متكامل](https://ahmed.almnsour.net/articles/22)
-- [هندسة نظام تداول الذهب: ما وراء الكواليس](https://ahmed.almnsour.net/articles/21)
+- [منصة زميلي، من جدول رقمي إلى نظام يفكر](https://ahmed.almnsour.net/articles/22)
+- [11 شهر في المختبر، قرارات ما يشوفها غيري](https://ahmed.almnsour.net/articles/21)
 
 [جميع المقالات →](https://ahmed.almnsour.net/articles)
 
