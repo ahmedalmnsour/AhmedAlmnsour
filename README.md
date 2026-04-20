@@ -16,9 +16,9 @@
 
 ---
 
-## منتجات شحنتها
+## منتجات أطلقتها
 
-**[QRCodi](https://www.qrcodi.me)** · مولّد رموز QR يركّز على الـ UX والأداء. [Source →](https://github.com/ahmedalmnsour/qrcodi)
+**[QRCodi](https://www.qrcodi.me)** [Source →](https://github.com/ahmedalmnsour/qrcodi)  · مولّد رموز QR يركّز على الـ UX والأداء.
 
 **[40+ Enterprise Projects](https://ahmed.almnsour.net/projects)** · مشاريع خاصة بنيتها لعملاء منذ 2008.
 
@@ -34,16 +34,16 @@
 
 **TypeScript · Next.js · Node.js · Python · Supabase (PostgreSQL + RLS) · Tailwind**
 
-مناطق التركيز:
+**أركز حالياً على:**
 - Multi-tenant SaaS architecture مع Row-Level Security
 - Multi-agent AI orchestration لأنظمة اتخاذ القرار
-- Arabic-first UX — - العربية أولاً — RTL كامل، واجهات مراعية للجنس
+- العربية أولاً — RTL كامل، واجهات مراعية للجنس
 
 ---
 
 ## المعمل
 
-أكتب عن القرارات الحقيقية خلف منتجاتي — ما اشتغل، وما انهار، ولماذا. المعنى يتضح حين يُشرح.
+أكتب عن القرارات الحقيقية خلف منتجاتي، ما اشتغل، وما انهار، ولماذا. المعنى يتضح حين يُشرح.
 
 - [تشريح زميلي v2.0.0: من جدول إلى SaaS متكامل](https://ahmed.almnsour.net/articles/22)
 - [هندسة نظام تداول الذهب: ما وراء الكواليس](https://ahmed.almnsour.net/articles/21)
