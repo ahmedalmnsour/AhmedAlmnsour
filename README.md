@@ -10,7 +10,7 @@
 
 ## ما أبنيه حالياً
 
-**[MyZameel v3](https://www.myzameel.com)**  منصة SaaS B2B لإدارة حصص الاحتياط في مدارس الكويت. دعم RTL بشكل أساسي، مخاطبة للجنس (معلم/معلمة)، نظام صلاحيات RBAC، وتكامل WhatsApp. قيد الربط مع **نظامي** عبر API.
+**[MyZameel v3](https://www.myzameel.com)** منصة SaaS B2B لإدارة حصص الاحتياط في مدارس الكويت. دعم RTL بشكل أساسي، مخاطبة للجنس (معلم/معلمة)، نظام صلاحيات RBAC، وتكامل WhatsApp. قيد الربط مع **نظامي** عبر API.
 
 
 **نظامي (Nizami)** — نظام SaaS لتوليد الجداول المدرسية، مبني ليتوافق مع لوائح وأنصبة مدارس الكويت. Multi-tenant على Supabase + PostgreSQL RLS.
@@ -46,8 +46,8 @@ Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، ما زال 
 
 أكتب عن القرارات الحقيقية خلف منتجاتي، ما اشتغل، وما انهار، ولماذا. المعنى يتضح حين يُشرح.
 
-- [منصة زميلي، من جدول رقمي إلى نظام يفكر](https://ahmed.almnsour.net/articles/22)
-- [11 شهر في المختبر، قرارات ما يشوفها غيري](https://ahmed.almnsour.net/articles/21)
+- [منصة زميلي، من جدول رقمي إلى نظام يفكر](https://ahmed.almnsour.net/articles/16)
+- [11 شهر في المختبر، قرارات ما يشوفها غيري](https://ahmed.almnsour.net/articles/15)
 
 [جميع المقالات →](https://ahmed.almnsour.net/articles)
 
