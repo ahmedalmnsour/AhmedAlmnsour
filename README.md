@@ -18,7 +18,7 @@ I build SaaS products for Kuwait's education sector.
 
 ## منتجات أطلقتها
 
-**[QRCodi](https://www.qrcodi.me)** [Source →](https://github.com/ahmedalmnsour/qrcodi) · مولّد رموز QR يركّز على الـ UX والأداء.
+**[QRCodi](https://www.qrcodi.me)** [Source →](https://github.com/ahmedalmnsour/qrcodi) · أداة عربية صغيرة لتوليد رموز QR، بُنيت بإتقان.
 
 **[40+ Enterprise Projects](https://ahmed.almnsour.net/projects)** · مشاريع خاصة بنيتها لعملاء منذ 2008.
 
@@ -26,7 +26,7 @@ I build SaaS products for Kuwait's education sector.
 
 ## قيد البحث والتجربة
 
-Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، يعتمد على فكرة الكشّافة والقنّاص ومجلس المستشارين (GPT, Claude, Gemini, DeepSeek) مع خوارزمية Causal Decision لتقييم المستشارين. اختبار على بيانات 16 عاماً، قبل الانتقال للتداول الحقيقي.
+Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، يعتمد على فكرة الكشّافة والقنّاص ومجلس المستشارين (GPT, Claude, Gemini, DeepSeek) مع خوارزمية Causal Decision لتقييم المستشارين. اختبار على بيانات 12 عاماً، قبل الانتقال للتداول الحقيقي.
 
 ---
 
@@ -53,4 +53,4 @@ Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، يعتمد �
 ---
 
 ## لنتحدث
-[almnsour.ahmed@gmail.com](mailto:almnsour.ahmed@gmail.com) · [ahmed.almnsour.net](https://ahmed.almnsour.net) · [WhatsApp](https://wa.me/96597311821)
+[almnsour.ahmed@gmail.com](mailto:almnsour.ahmed@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmedalmnsour/) · [WhatsApp](https://wa.me/96597311821)
