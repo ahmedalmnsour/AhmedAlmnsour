@@ -53,4 +53,7 @@ Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، يعتمد �
 ---
 
 ## لنتحدث
-[almnsour.ahmed@gmail.com](mailto:almnsour.ahmed@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmedalmnsour/) · [WhatsApp](https://wa.me/96597311821)
+
+- **البريد:** [almnsour.ahmed@gmail.com](mailto:almnsour.ahmed@gmail.com)
+- **لينكدإن:** [أحمد المنصور](https://www.linkedin.com/in/ahmedalmnsour/)
+- **واتساب:** [راسلني](https://wa.me/96597311821)
