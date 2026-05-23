@@ -10,8 +10,7 @@ I build SaaS products for Kuwait's education sector.
 
 ## ما أبنيه حالياً
 
-**[MyZameel v3](https://www.myzameel.com)** منصة SaaS B2B لإدارة حصص الاحتياط في مدارس الكويت. دعم RTL بشكل أساسي، مخاطبة للجنس (معلم/معلمة)، نظام صلاحيات RBAC، وتكامل WhatsApp. قيد الربط مع **نظامي** عبر API.
-
+**[زميلي (MyZameel) v3](https://www.myzameel.com)** — منصة SaaS B2B لإدارة حصص الاحتياط في مدارس الكويت. دعم RTL بشكل أساسي، مخاطبة للجنس (معلم/معلمة)، نظام صلاحيات RBAC، وتكامل WhatsApp. قيد الربط مع **نظامي** عبر API.
 
 **نظامي (Nizami)** — نظام SaaS لتوليد الجداول المدرسية، مبني ليتوافق مع لوائح وأنصبة مدارس الكويت. Multi-tenant على Supabase + PostgreSQL RLS.
 
@@ -20,6 +19,7 @@ I build SaaS products for Kuwait's education sector.
 ## منتجات أطلقتها
 
 **[QRCodi](https://www.qrcodi.me)** [Source →](https://github.com/ahmedalmnsour/qrcodi) · مولّد رموز QR يركّز على الـ UX والأداء.
+
 **[40+ Enterprise Projects](https://ahmed.almnsour.net/projects)** · مشاريع خاصة بنيتها لعملاء منذ 2008.
 
 ---
