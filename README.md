@@ -4,7 +4,7 @@
 
 I build SaaS products for Kuwait's education sector.
 
-[ahmed.almnsour.net](https://ahmed.almnsour.net) · Kuwait 🇰🇼
+[ahmed.almnsour.net](https://ahmed.almnsour.net) · Kuwait
 
 ---
 
