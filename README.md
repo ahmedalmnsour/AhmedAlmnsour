@@ -32,7 +32,21 @@ Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، يعتمد �
 
 ## أدواتي اليومية
 
-**TypeScript · Next.js · Node.js · Python · Supabase (PostgreSQL + RLS) · Tailwind**
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **أركز حالياً على:**
 - Multi-tenant SaaS architecture مع Row-Level Security
@@ -54,6 +68,10 @@ Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، يعتمد �
 
 ## لنتحدث
 
-- **البريد:** [almnsour.ahmed@gmail.com](mailto:almnsour.ahmed@gmail.com)
-- **لينكدإن:** [أحمد المنصور](https://www.linkedin.com/in/ahmedalmnsour/)
-- **واتساب:** [راسلني](https://wa.me/96597311821)
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-almnsour.ahmed@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:almnsour.ahmed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedalmnsour-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedalmnsour/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+965_97311821-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/96597311821)
+
+</div>
