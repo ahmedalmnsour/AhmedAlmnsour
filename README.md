@@ -10,9 +10,17 @@ I build SaaS products for Kuwait's education sector.
 
 ## ما أبنيه حالياً
 
-**[زميلي (MyZameel) v3](https://www.myzameel.com)** — منصة SaaS B2B لإدارة حصص الاحتياط في مدارس الكويت. دعم RTL بشكل أساسي، مخاطبة للجنس (معلم/معلمة)، نظام صلاحيات RBAC، وتكامل WhatsApp. قيد الربط مع **نظامي** عبر API.
+**[زميلي (MyZameel)](https://www.myzameel.com)** منصة SaaS B2B لإدارة حصص الاحتياط في مدارس الكويت. دعم RTL بشكل أساسي، مخاطبة للجنس (معلم/معلمة)، نظام صلاحيات RBAC، وتكامل WhatsApp. قيد الربط مع **نظامي** عبر API.
 
-**نظامي (Nizami)** — نظام SaaS لتوليد الجداول المدرسية، مبني ليتوافق مع لوائح وأنصبة مدارس الكويت. Multi-tenant على Supabase + PostgreSQL RLS.
+**نظامي (Nizami)** نظام SaaS لتوليد الجداول المدرسية، مبني ليتوافق مع لوائح وأنصبة مدارس الكويت. Multi-tenant على Supabase + PostgreSQL RLS.
+
+---
+
+## مفتوح المصدر
+
+**[خِطاب (khitab)](https://github.com/ahmedalmnsour/khitab)** مكتبة TypeScript للمخاطبة العربية في الواجهات. الفعل العربي يتغيّر بالمخاطَب («احفظ» / «احفظي») ومعظم الواجهات تتخلّف للمذكر؛ خِطاب تضم أكثر من 1300 عبارة مراجَعة تُخاطب كل مستخدم بصيغته الصحيحة. Zero dependencies · MIT
+
+**مساهمات خارجية:** إضافة الدعم العربي الكامل لمكتبة [supabase-error-translator-js](https://github.com/srothgan/supabase-error-translator-js) ترجمة رسائل أخطاء auth/storage/realtime/database/functions
 
 ---
 
