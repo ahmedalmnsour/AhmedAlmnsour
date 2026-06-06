@@ -59,8 +59,7 @@ Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، يعتمد �
 **أركز حالياً على:**
 - Multi-tenant SaaS architecture مع Row-Level Security
 - Multi-agent AI orchestration لمشروع Gold-AI
-- العربية أولاً — RTL كامل، واجهات مراعية للجنس
-
+- العربية أولاً: دعم RTL كامل وواجهات مراعية للجنس (مكتبة khitab)
 ---
 
 ## المعمل
