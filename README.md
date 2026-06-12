@@ -28,7 +28,7 @@ I build SaaS products for Kuwait's education sector.
 
 **[QRCodi](https://www.qrcodi.me)** [Source →](https://github.com/ahmedalmnsour/qrcodi) · أداة عربية صغيرة لتوليد رموز QR، بُنيت بإتقان.
 
-**[40+ Enterprise Projects](https://ahmed.almnsour.net/projects)** · مشاريع خاصة بنيتها لعملاء منذ 2008.
+أعمال خاصة للعملاء · مشاريع بُنيت لأفراد وشركات، بِيعت بحقوقها لأصحابها.
 
 ---
 
@@ -66,8 +66,8 @@ Gold-AI، نظام تداول خاص بسوق الذهب (XAUUSD)، يعتمد �
 
 أكتب عن القرارات الحقيقية خلف منتجاتي، ما اشتغل، وما انهار، ولماذا. المعنى يتضح حين يُشرح.
 
+- [خِطاب، مكتبة عربية تعرف منو تخاطب](https://ahmed.almnsour.net/articles/17)
 - [منصة زميلي، من جدول رقمي إلى نظام يفكر](https://ahmed.almnsour.net/articles/16)
-- [11 شهر في المختبر، قرارات ما يشوفها غيري](https://ahmed.almnsour.net/articles/15)
 
 [جميع المقالات →](https://ahmed.almnsour.net/articles)
 
